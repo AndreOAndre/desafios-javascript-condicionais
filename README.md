@@ -54,8 +54,8 @@ Solicita o nome do usuário e apresenta uma mensagem de boas-vindas personalizad
 
 ## Tecnologias utilizadas:
 
-- HTML5
-- JavaScript (ES6)
+- HTML
+- JavaScript
 
 ---
 
